@@ -4,6 +4,7 @@ Este es un repositorio donde estare probando las funciones de Git y GitHub, teni
 ## El temario de este curso fue:
 * Todos los comandos de Git.
 * El flujo de trabajo en Github.
-* El verdadero amor por las buenas prÃ¡cticas.
+* El verdadero amor por las buenas practicas.
+* Crear y vincular repositorios desde Git a GitHub usando las llaves SSH.
 * Trucos de las herramientas GitBash, Git y GitHub.
 
